@@ -1,6 +1,6 @@
 /* *****************************************************************************
-   This file provide helper macros to implement types that storages 128
-   bit of memory and their bitwise operators.
+   This file provide helper macros to implement types that storages fixed
+   bits of memory and their bitwise operators.
 
    Last modified: April 30, 2023
    *****************************************************************************
